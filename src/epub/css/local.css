@@ -1,2 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#mrs-dalloway{
+	margin-top: 20vh;
+}
