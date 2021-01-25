@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-25T23:45:48Z</dc:date>
+		<meta property="dcterms:modified">2021-01-25T23:45:48Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,15 +56,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">As Clarissa Dalloway walks through London on a glorious June day, her movements bring together a cast of friends and strangers, each in turn weighing matters of mind and heart.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Probably &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;’s best-known novel, &lt;i&gt;Mrs. Dalloway&lt;/i&gt;, originally published in 1925, is a glorious, ground-breaking text. On the surface, it follows Clarissa Dalloway, an Englishwoman in her fifties, minute by minute through the June day on which she is having a party. At a deeper level, however, the novel demonstrates, through an effortless stream of consciousness, the connections formed in human interaction—whether these interactions are fleeting or persist through decades.&lt;/p&gt;
+			&lt;p&gt;Probably &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;’s best-known novel, &lt;i&gt;Mrs. Dalloway&lt;/i&gt;, originally published in 1925, is a glorious, ground-breaking text. On the surface, it follows Clarissa Dalloway, an Englishwoman in her fifties, minute by minute through the June day on which she is having a party. At a deeper level, however, the novel demonstrates, through an effortless stream of consciousness, the connections formed in human interaction—whether these interactions are fleeting, or persist through decades.&lt;/p&gt;
 			&lt;p&gt;This is a novel to read and cherish, if only to marvel at Woolf’s linguistic acrobatics. Words and phrases swoop and soar like swallows. Woolf’s sentences are magnificent: sinuous, whirling, impeccably detailed. As narrative perspective shifts from character to character—sometimes within a single sentence—readers come to understand the oh-so-permeable barrier between self and other. Through Clarissa we meet Septimus Warren Smith, his wife Rezia, and a cast of dozens more, all connected by the “leaden circles” of Big Ben marking the passage of every hour, by the pavements of Bloomsbury that lead everywhere and nowhere. Modernist London has never been portrayed more sublimely: replete with birdsong and flowers, resplendent in sunshine, youthful yet eternal—and even in the aftermath of war and pandemic, resilient.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Mrs. Dalloway&lt;/i&gt; is Woolf’s attempt to express that which may be inexpressible. It offers a close examination of how difficult it is, even when our hearts are brimming, to say what we really feel; and it examines the damage we inflict through our reticence with words, our withholding of love. It is a novel of the soul, and a work of immense beauty.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks02/0200991h.html</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.509292</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64325</meta>
+		<meta property="se:reading-ease.flesch">70.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mrs._Dalloway</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_mrs-dalloway</meta>
 		<dc:creator id="author">Virginia Woolf</dc:creator>
@@ -94,6 +94,10 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
