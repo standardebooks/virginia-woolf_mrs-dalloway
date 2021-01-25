@@ -4,3 +4,18 @@
 #mrs-dalloway{
 	margin-top: 20vh;
 }
+
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
