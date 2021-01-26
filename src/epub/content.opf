@@ -95,10 +95,10 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
-		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
