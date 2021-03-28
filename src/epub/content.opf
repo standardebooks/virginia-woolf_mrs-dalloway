@@ -76,12 +76,12 @@
 		<dc:creator id="author">Virginia Woolf</dc:creator>
 		<meta property="file-as" refines="#author">Woolf, Virginia</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Virginia_Woolf</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79041870</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79041870</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Isaac Israëls</dc:contributor>
 		<meta property="file-as" refines="#artist">Israëls, Isaac</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Isaac_Isra%C3%ABls</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81128577</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81128577</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Don Lainson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lainson, Don</meta>
