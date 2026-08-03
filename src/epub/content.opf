@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway</dc:identifier>
 		<dc:date>2021-01-25T23:45:48Z</dc:date>
@@ -67,12 +67,12 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">46</meta>
-		<dc:description id="description">As Clarissa Dalloway walks through London on a glorious June day, her movements bring together a cast of friends and strangers, each in turn weighing matters of mind and heart.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>As Clarissa Dalloway walks through London on a glorious June day, her movements bring together a cast of friends and strangers, each in turn weighing matters of mind and heart.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Probably &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf’s&lt;/a&gt; best-known novel, &lt;i&gt;Mrs. Dalloway&lt;/i&gt;, originally published in 1925, is a glorious, ground-breaking text. On the surface, it follows Clarissa Dalloway, an Englishwoman in her fifties, minute by minute through the June day on which she is having a party. At a deeper level, however, the novel demonstrates, through an effortless stream of consciousness, the connections formed in human interaction—whether these interactions are fleeting, or persist through decades.&lt;/p&gt;
 			&lt;p&gt;This is a novel to read and cherish, if only to marvel at Woolf’s linguistic acrobatics. Words and phrases swoop and soar like swallows. Woolf’s sentences are magnificent: sinuous, whirling, impeccably detailed. As narrative perspective shifts from character to character—sometimes within a single sentence—readers come to understand the oh-so-permeable barrier between self and other. Through Clarissa we meet Septimus Warren Smith, his wife Rezia, and a cast of dozens more, all connected by the “leaden circles” of Big Ben marking the passage of every hour, by the pavements of Bloomsbury that lead everywhere and nowhere. Modernist London has never been portrayed more sublimely: replete with birdsong and flowers, resplendent in sunshine, youthful yet eternal—and even in the aftermath of war and pandemic, resilient.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Mrs. Dalloway&lt;/i&gt; is Woolf’s attempt to express that which may be inexpressible. It offers a close examination of how difficult it is, even when our hearts are brimming, to say what we really feel; and it examines the damage we inflict through our reticence with words, our withholding of love. It is a novel of the soul, and a work of immense beauty.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks02/0200991h.html</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.509292</dc:source>
